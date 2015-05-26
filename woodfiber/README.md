@@ -2,7 +2,7 @@
 
 ### CartoCSS
 
-#woodfiber2013 {
+#woodfiber2013{
   line-color:#bdbdbd;
   line-width:0.3;
   polygon-opacity:0.3;
