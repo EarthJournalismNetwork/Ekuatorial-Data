@@ -1,6 +1,6 @@
 # POPULATION
 
-![GitHub Logo](/jawa.png)
+![GitHub Logo](/population/jawa.png)
 
 ### Zoom
 
